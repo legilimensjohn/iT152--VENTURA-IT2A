@@ -1,3 +1,6 @@
+IT 152 GAME DEVELOPMENT
+
+
 Welcome to PLATFORM 9 3/4, a magnificent Java-based gaming experience that offers vintage fighting game excitement to your screen and was inspired by the Street Fighter 2D Fighting Game. The goal of the game is to choose your favorite character and compete in one-on-one battles to prove your skills and become an elite fighter.
 
 For smooth gameplay, the game employs easy keyboard controls. To maneuver and perform strong moves, use the following keys:
