@@ -1,3 +1,13 @@
+/**
+ * The `CharacterTexture` class is responsible for handling character textures and animations
+ * in a 2D game environment. It manages the loading of character sprite sheets, extracting
+ * individual frames, and organizing them into arrays for various character animations.
+ * Additionally, it plays the Harry Potter theme song upon instantiation.
+ *
+ * This class utilizes the `SpriteSheet` and `ImageLoader` classes for handling sprite sheets
+ * and loading images, respectively.
+ */
+
 package basics;
 
 // Importing classes for image processing and audio playback
