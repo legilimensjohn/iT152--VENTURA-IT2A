@@ -1,5 +1,3 @@
-
-
 package basics;
 
 // Importing classes for image processing and audio playback
